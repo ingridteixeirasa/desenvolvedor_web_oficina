@@ -1,0 +1,11 @@
+.servicos img{
+    height: 150px;
+    width: 150px;
+    display: bloco embutido;
+    border-radius: 50%;
+       
+}
+
+.carrossel{
+    height: 600px
+}
