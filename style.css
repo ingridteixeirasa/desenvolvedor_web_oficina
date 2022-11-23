@@ -59,3 +59,11 @@
   .login{
     margin-top: 50px;
   }
+.nav-link{
+    background-color: #767980;
+    color: rgb(39, 38, 38);
+}
+.navbar navbar-expand-lg navbar-light bg-light{
+  background-color: #767980;
+  color: rgb(39, 38, 38); 
+}
