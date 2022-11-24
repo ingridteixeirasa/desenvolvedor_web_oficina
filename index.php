@@ -68,7 +68,7 @@
         </div>
     </div>
 <?php
-require_once
+require_once 'footer.php'
 ?>
 
    
